@@ -99,5 +99,5 @@ theme: hexo-theme-Annie
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:liujun-ceo/liujun-ceo.github.io
+  repository: git@github.com:liujun-ceo/liujun-ceo.github.io.git
   branch: master
